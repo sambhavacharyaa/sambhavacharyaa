@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Backend Developer in training<br>🌱 Learning Django, Python, and all things backend<br>🎯 Currently building cool web apps<br>📚 Always curious to learn new technologies<br>💡 Open to collaborating on Python/Django projects
+👨‍💻 Full-Stack Developer in training<br>🌱 Learning JavaScript, React, and all things web development<br>🎯 Currently building cool web apps<br>📚 Always curious to learn new technologies<br>💡 Open to collaborating on Python/Django projects
 
 
 ## 🌐 Socials:
